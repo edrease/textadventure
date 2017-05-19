@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "E1CA4F3045CC9FF8301722BDD6FEC937F6B2FB04",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "E1CA4F3045CC9FF8301722BDD6FEC937F6B2FB04" : 9223372036854775807,
+    "CA7701B1E5A647E1400EB585F5589B1262919E18" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "B4D440FB-1F5B-4190-8EE5-EBC7D3AF9E68",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "E1CA4F3045CC9FF8301722BDD6FEC937F6B2FB04" : "TEXTADV\/",
+    "CA7701B1E5A647E1400EB585F5589B1262919E18" : "TEXTADV\/TEXTADV\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "TEXTADV",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "TEXTADV.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/edrease\/textadv.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "CA7701B1E5A647E1400EB585F5589B1262919E18"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/edrease\/textadventure.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "E1CA4F3045CC9FF8301722BDD6FEC937F6B2FB04"
+    }
+  ]
+}
